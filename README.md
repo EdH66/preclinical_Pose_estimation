@@ -1,5 +1,10 @@
-# DLC-Scripts
+# Unbiased preclinical phenotyping reveals neuroprotective properties of pioglitazone
+## related scripts
  
-Scripts for Deeplabcut pose estimation for in vivo metabolism and neurodegenereation work
+.py and .sh scripts for Deeplabcut pose estimation for in vivo metabolism and neurodegenereation work
 
-Focused on .py and .sh scripts for use on HPC 
+
+* Motor coodination tracking example
+
+![ezgif com-video-to-gif](https://github.com/EdH66/Motor_trackbydrug/assets/66481365/10b28178-9980-40cc-aba6-465285f725b8)
+
