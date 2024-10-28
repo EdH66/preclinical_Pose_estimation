@@ -12,6 +12,3 @@
 ## Example: Motor coodination tracking example
 
 ![ezgif com-video-to-gif](https://github.com/EdH66/Motor_trackbydrug/assets/66481365/10b28178-9980-40cc-aba6-465285f725b8)
-
-#### Github Stats
-<img src="https://github-readme-stats.vercel.app/api?username={username}&show_icons=true&theme=gotham" alt="github stats" width="45%" align="right"/>
