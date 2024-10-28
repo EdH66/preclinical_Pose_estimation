@@ -1,4 +1,4 @@
-# Unbiased preclinical phenotyping for neurodegeneration research
+# Unbiased preclinical phenotyping for neurodegeneration
 
 ***Unbiased preclinical phenotyping reveals neuroprotective properties of pioglitazone***
 
