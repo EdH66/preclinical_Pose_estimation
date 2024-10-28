@@ -2,7 +2,7 @@
 
 .py and .sh scripts for Deeplabcut pose estimation for in vivo metabolism and neurodegenereation work
 
-## Publication: 
+## Publication
 ***[Unbiased preclinical phenotyping reveals neuroprotective properties of pioglitazone](https://www.biorxiv.org/content/10.1101/2024.08.30.610328v1/)***
 
 
@@ -12,3 +12,8 @@
 ## Example: Motor coodination tracking example
 
 ![ezgif com-video-to-gif](https://github.com/EdH66/Motor_trackbydrug/assets/66481365/10b28178-9980-40cc-aba6-465285f725b8)
+
+
+## Licence
+
+[![License](https://img.shields.io/badge/License-CC--BY--NC_4.0_International_license.-blue)](#license)
