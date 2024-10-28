@@ -5,7 +5,9 @@
  [![See Manuscript - 10.1101/2024.08.30.610328](https://img.shields.io/badge/See_Manuscript-10.1101%2F2024.08.30.610328-2ea44f)](https://www.biorxiv.org/content/10.1101/2024.08.30.610328v1)
  
 ## Contents
-*.py and .sh scripts for Deeplabcut pose estimation for in vivo metabolism and neurodegenereation work
+* .py and .sh scripts for Deeplabcut pose estimation for in vivo metabolism and neurodegenereation work
+* Examples of workflow
+* Examples of data generaated prior to ensemble training
 
 ## Workflow 
 
